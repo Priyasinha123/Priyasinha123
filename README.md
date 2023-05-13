@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Priyasinha123
+- 👋 Hi, I’m Priya Sinha
 - 👀 I’m interested in coding
 - 🌱 I’m working
 - 💞️ I’m looking to collaborate on ...
