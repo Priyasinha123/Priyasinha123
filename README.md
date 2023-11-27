@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Priya Sinha
 - 👀 I’m interested in coding
 - 🌱 I’m working
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Priyasinha123/Priyasinha123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
