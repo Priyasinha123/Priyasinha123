@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Priya Sinha
-- 👀 I’m interested in coding
+- 👀 I’m interested in Web Designing and Development
 - 🌱 I’m working
 
 
